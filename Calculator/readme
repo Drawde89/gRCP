@@ -1,0 +1,1 @@
+The user inputs the operator/operands on the command line in client.py and server.py does the calculations and sends back the answer.  Launch server.py and client.py to try it out!
