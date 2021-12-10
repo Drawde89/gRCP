@@ -1,2 +1,2 @@
-# gRCP
-Various applications utilizing the gRCP API
+# gRPC
+Various applications utilizing the gRPC API
